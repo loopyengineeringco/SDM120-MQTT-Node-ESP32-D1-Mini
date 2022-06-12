@@ -5,7 +5,9 @@ Reads your SDM120 energy monitor and publishes the data via MQTT to Node Red.
 ![image](https://user-images.githubusercontent.com/43951291/173225094-1b032fa1-772b-43d1-9fbe-8f4ff6fa7ea8.png)
 
 Schematic:
+
 ![image](https://user-images.githubusercontent.com/43951291/173227123-2b43ce9a-3d69-4a7e-831c-f8aa1fd51212.png)
+(RX/TX may need to be reversed if no data is being received)
 
 ![image](https://user-images.githubusercontent.com/43951291/173225109-7b32139b-7979-4543-9c0c-b2f7f689ac1d.png)
 
