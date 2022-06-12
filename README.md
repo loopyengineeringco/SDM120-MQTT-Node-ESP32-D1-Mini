@@ -10,6 +10,9 @@ Schematic:
 
 (RX/TX may need to be reversed if no data is being received or if the SDM120 is flashing)
 
+
+Node Red flow (import using the json file)
+
 ![image](https://user-images.githubusercontent.com/43951291/173225109-7b32139b-7979-4543-9c0c-b2f7f689ac1d.png)
 
 3d printable DIN rail enclosure can be found on thingiverse
