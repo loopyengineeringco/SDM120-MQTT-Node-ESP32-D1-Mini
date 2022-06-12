@@ -1,5 +1,5 @@
 # SDM120 MQTT Node ESP32 D1 Mini
- SDM120 MQTT Node ESP32 D1 Mini
+SDM120 MQTT Node ESP32 D1 Mini - Arduino
 
 Reads your SDM120 energy monitor and publishes the data via MQTT to Node Red.
 ![image](https://user-images.githubusercontent.com/43951291/173225094-1b032fa1-772b-43d1-9fbe-8f4ff6fa7ea8.png)
